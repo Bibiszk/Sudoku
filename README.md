@@ -52,11 +52,13 @@ Compile os arquivos:
 
 javac SudokuBoard.java SudokuGame.java Main.java
 
+```bash
 Execute o jogo:
 
+```bash
 java Main
 
-📷 Exemplo no Terminal
+## 📷 Exemplo no Terminal
 
           S U D O K U   -   E X E M P L O
 
