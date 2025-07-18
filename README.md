@@ -54,7 +54,6 @@ javac SudokuBoard.java SudokuGame.java Main.java
 
 ## 📷 Exemplo no Terminal
 
-```bash
 Execute o jogo:
 
           S U D O K U   -   E X E M P L O
@@ -81,7 +80,7 @@ Execute o jogo:
 ✅ Integração entre entrada de usuário, verificação e atualização do estado
 ✅ Aplicação de boas práticas de codificação
 
-🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 Java 8+
 
 Terminal / Console
