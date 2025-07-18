@@ -75,8 +75,7 @@ Execute o jogo:
             +-------+-------+-------+-
 🔍 As células vazias estão representadas por "_" para facilitar a visualização dos espaços que o jogador deve preencher.
 
-...
-📚 Aprendizados
+## 📚 Aprendizados
 ✅ Prática com estrutura de dados e validação lógica
 ✅ Consolidação dos conceitos de POO com múltiplas classes
 ✅ Integração entre entrada de usuário, verificação e atualização do estado
@@ -89,5 +88,5 @@ Terminal / Console
 
 Paradigma de Programação Orientada a Objetos (POO)
 
-✍️ Autor
+## ✍️ Autor
 Projeto desenvolvido por [Seu Nome] durante o bootcamp Back-End Java 2025 da Digital Innovation One (DIO).
